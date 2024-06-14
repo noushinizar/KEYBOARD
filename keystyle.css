@@ -1,0 +1,40 @@
+body{
+    margin: 150px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.keybord{
+ margin: 120px 170px;
+ border: 2px solid black;
+ background-color: rgb(237, 243, 243);
+ box-shadow: 5px 5px 3px rgb(3, 3, 3);
+}
+
+.row{
+  width: 100%;
+  height: 60px;
+  margin: 5px 0 0 0;
+}
+button:hover{
+    background: rgb(143, 98, 95);
+}
+.btn{
+    color: rgb(207, 50, 50);
+    width: 55px;
+    height: 55px;
+    border: none;
+    background-color: rgb(206, 161, 158);
+    box-shadow: 5px 3px 10px black;
+}
+#spcl{
+    width: 110px;
+}
+#spclshift{
+    width: 140px;
+}
+#spclspace{
+    width: 290px;
+}
+#fn{
+    height: 40px;
+}
